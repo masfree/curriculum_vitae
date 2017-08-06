@@ -1,0 +1,37 @@
+h3.list{
+    display: inline !important;
+}
+.avatar{
+    width: 100%;
+}
+img{
+    border-radius: 3%;
+    margin: 5%;
+    width: 90%;
+}
+.container{
+    padding: 1%;
+    background-color: #C1BDAA;
+}
+body{
+    background-color: #636157;
+}
+a:link {
+    color: #84806E;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+Try it Yourself »
