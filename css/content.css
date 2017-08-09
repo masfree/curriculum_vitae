@@ -6,8 +6,8 @@ h3.list{
 }
 img{
     border-radius: 3%;
-    margin: 5%;
-    width: 90%;
+    margin-right: 16%;
+    width: 84%;
 }
 .container{
     padding: 1%;
@@ -22,12 +22,12 @@ a:link {
 
 /* visited link */
 a:visited {
-    color: green;
+    color: #84806E;
 }
 
 /* mouse over link */
 a:hover {
-    color: hotpink;
+    color: #636157;
 }
 
 /* selected link */
